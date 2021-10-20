@@ -1,0 +1,42 @@
+.intro {
+    color: #81cd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #62abff;
+}
+h1:hover{
+    font-size: 100px;
+}
+
+/* * {
+    border: solid;
+} */
+
+.menu{
+   
+    display: flex;
+    justify-content: center;
+   
+}
+
+.site-description{
+    display: flex;
+    flex-direction: column;
+    justify-content: first baseline;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+p,h2{
+    text-align: center;
+}
